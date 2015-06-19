@@ -4,3 +4,5 @@ console.log(i);
 }
 
 console.log("Hello Homer");
+
+console.log("Random changes made!");
